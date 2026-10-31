@@ -3,7 +3,7 @@
 **GTM & Marketing Leader · RevOps · Technical–Creative**
 📍 Dublin, Ireland
 
-I'm a marketing leader with 11+ years across **go-to-market strategy, revenue operations, and brand storytelling** — currently Acting Head of Marketing at Abbey Capital. My edge is a rare combination: I can set the strategy, build the systems *and* design the creative. (MSc in Interactive Digital Media, Trinity College Dublin.)
+I'm a marketing leader with 11+ years across **go-to-market strategy, revenue operations, and brand storytelling** — currently Marketing technology and operations lead at Abbey Capital. My edge is a rare combination: I can set the strategy, build the systems *and* design the creative. (MSc in Interactive Digital Media, Trinity College Dublin.)
 
 ---
 
