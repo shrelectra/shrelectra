@@ -32,7 +32,7 @@ I'm a marketing leader with 11+ years across **go-to-market strategy, revenue op
 
 ### 🌍 Beyond work
 
-Irish citizen, open to roles across Dublin, London, Amsterdam & Paris. Fluent in English & Hindi, with basic French and Japanese.
+Irish citizen, open to roles across Japan. Fluent in English & Hindi, with basic French and Japanese.
 
 ### 📫 Let's connect
 
