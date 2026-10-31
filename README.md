@@ -1,40 +1,25 @@
-# Hi, I'm Shreya 👋
+# Shreya Prabhu
 
-**GTM & Marketing Leader · RevOps · Technical–Creative**
-📍 Dublin, Ireland
+Marketing Technology and Operations Lead, based in Dublin.
 
-I'm a marketing leader with 11+ years across **go-to-market strategy, revenue operations, and brand storytelling** — currently Marketing technology and operations lead at Abbey Capital. My edge is a rare combination: I can set the strategy, build the systems *and* design the creative. (MSc in Interactive Digital Media, Trinity College Dublin.)
+I own the marketing automation stack, build the pipeline reporting and
+segmentation models, and led a migration from HubSpot to Salesforce. I work
+between the data and the campaigns: wiring up the systems, then reading what
+they tell us and acting on it. I visualise in Tableau and build analytics
+workflows in Cursor and Claude Code.
 
----
+## What I work on
+- Marketing automation and lifecycle programs
+- Pipeline reporting, attribution and segmentation modelling
+- Platform migrations and martech stack design
+- Demand generation that ties back to revenue
 
-### 🚀 What I do
+## A few numbers
+- Around a quarter of total revenue comes through email and lifecycle programs
+- 125% quarter on quarter rise in marketing sourced opportunities
+- Roughly 92% engagement on nurture frameworks
+- 45% lift in organic traffic
 
-- **GTM Strategy** — positioning, lifecycle programs, and demand generation that ties to revenue
-- **Revenue Operations** — marketing/sales automation, attribution, and pipeline analytics
-- **Brand & Content** — storytelling that turns audiences into opportunities
-- **Build & Ship** — I speak enough code and design to prototype what I pitch
-
-### 📈 A few results I'm proud of
-
-- **~25%** of total revenue driven by email & lifecycle programs
-- **125%** QoQ increase in marketing-sourced opportunities
-- **~92%** engagement rates on nurture frameworks
-- **45%** increase in organic traffic
-- Automation supporting a **50+ person** revenue team
-
-### 🧰 Tools I work with
-
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)
-![Marketo](https://img.shields.io/badge/Marketo-5C4C9F?style=flat&logo=marketo&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=googleads&logoColor=white)
-
-### 🌍 Beyond work
-
-Irish citizen, open to roles across Japan. Fluent in English & Hindi, with basic French and Japanese.
-
-### 📫 Let's connect
-
-- **LinkedIn:** [prabhu-shreya](https://ie.linkedin.com/in/prabhu-shreya)
-- **Email:** sprabhu1191@gmail.com
+## Find me
+- LinkedIn: [prabhu-shreya](https://ie.linkedin.com/in/prabhu-shreya)
+- Email: sprabhu1191@gmail.com
